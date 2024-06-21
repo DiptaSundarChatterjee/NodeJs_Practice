@@ -1,0 +1,11 @@
+Node JS--------
+Modules-- A module is a piece of reusable JavaScript code . it could be a .JS file or a directory containing .JS files. You can export the content of these files and use them in other files.
+
+
+
+Express JS -------
+
+-> it makes the code look clean
+-> it makes it modular
+-> it makes it easy to handle the routes
+-> we don't need to build a server using http explicitly
